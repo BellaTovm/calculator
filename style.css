@@ -1,0 +1,22 @@
+body {
+    margin:100px;
+    height: 100vh;
+  
+  
+}
+div{
+    width:500px;
+    height:100px ;
+}
+button {
+    width: 150px;
+    height:100px;
+}
+.operator{
+background-color: thistle;
+}
+#display
+{
+    width:450px;
+    border: 5px solid purple ;
+}
